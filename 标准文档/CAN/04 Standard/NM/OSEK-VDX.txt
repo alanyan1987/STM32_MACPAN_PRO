@@ -1,0 +1,1 @@
+OSEK/VDX specifies a direct and sn indirect network management.
